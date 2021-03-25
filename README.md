@@ -16,7 +16,7 @@ Ainsi que de pouvoir jouer sur les probabilités et autres paramêtres pour chaq
 		</details>
 	</li>
 	<li>
-		<b>Sherrif</b> :<br>
+		<p style="color:yellow;"><b>Sherrif</b> :</p>
 		<details>
 			<summary>Description</summary>
 			<p align="left">
