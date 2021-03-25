@@ -10,7 +10,7 @@ Ainsi que de pouvoir jouer sur les probabilités et autres paramêtres pour chaq
 		<details>
 			<summary>Description</summary>
 			<p align="left">
-				Corrige les imperfections du jeux, tels que vitals sur polus, l'animation des vents sur Skeld / Mira dans le fog, ainsi que quelques autres détails. <br><br>
+				<br>Corrige les imperfections du jeux, tels que vitals sur polus, l'animation des vents sur Skeld / Mira dans le fog, ainsi que quelques autres détails. <br><br>
 				<a href="/Among_Patch/Readme.md">Voir plus ici.</a> 
 			</p>
 		</details>
@@ -20,7 +20,7 @@ Ainsi que de pouvoir jouer sur les probabilités et autres paramêtres pour chaq
 		<details>
 			<summary>Description</summary>
 			<p align="left">
-				Rajoute le role du Sherrif dans le jeu ! <br><br>
+				<br>Rajoute le role du Sherrif dans le jeu ! <br><br>
 				<a href="/Sherrif/Readme.md">Voir plus ici.</a> 
 			</p>
 		</details>
